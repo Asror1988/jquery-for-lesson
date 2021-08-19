@@ -2,7 +2,7 @@ body {
 	position: relative;
 }
 * {
-	transition: all 0.2s;
+	transition: all 0.5s;
 }
 .container {
 	padding-top: 20%;
